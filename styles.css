@@ -1,4 +1,5 @@
 #externalFrame{
+    display: flex;
     padding: 25px;
     background-color: bisque;
     border: 1px solid black;
@@ -10,4 +11,11 @@
     background-color: aquamarine;
     border: 3px solid black;
     border-right: 4px solid black;
+    border-top: 4px solid black;
+}
+#sliderContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
 }
