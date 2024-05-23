@@ -4,6 +4,7 @@
     background-color: bisque;
     border: 1px solid black;
     border-radius: 10px;
+    max-width: 1100px;
 }
 #gridField{
     width: 750px;
@@ -22,4 +23,10 @@
 #buttonsContainer{
     display: block;
     padding: 15px;
+}
+.buttonAndLabel{
+    padding: 4px;
+}
+.button{
+    width: 6rem;
 }
